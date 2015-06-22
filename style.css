@@ -1,0 +1,62 @@
+html {
+	background-color: #777777;
+}
+header {
+margin: auto;
+background-color: white;
+max-width: 960px;
+
+}
+
+h1 {
+	font-family: 'Special Elite', Helvetica, Arial, sans-serif;
+	/* color: blue; */
+    font-size: 28px;
+	/*font-size: 2.00em;*/
+    line-height: 1.0;
+	margin: 5px 0 5px 0;
+	padding: 25px 15px 15px 15px;
+
+}
+
+h2{
+	font-family: 'Special Elite', Helvetica, Arial, sans-serif;
+	line-height: 1.0;
+	font-size: 1.500em;
+	padding: 0 5px 0 15px;
+}
+
+.container {
+margin: auto;
+background-color: white;
+max-width: 960px;
+}
+
+body{
+	line-height: 1.2;
+	
+}
+section{
+	float: left;
+	width: 100%;
+}
+
+
+p{
+	font-size: 100.0%;
+	font-family:'Goudy Bookletter 1911', serif;
+	font-size: 1.000em;
+	font-weight: normal;
+	font-style: normal;
+	padding: 0 5px 0 15px;
+}
+
+aside {
+	float: right;
+	width: 100%;
+}
+
+footer {
+	clear: both;
+	padding: 0 5px 20px 15px;
+}
